@@ -1,19 +1,17 @@
-# macOS
-.DS_Store
-
-# Windows
+#for macos users
+.DS_Store 
+#for windows users
 Thumbs.db
 
-# VS Code settings (optional)
 .vscode/
 
-# Temporary files
+#all temporary files
 *.tmp
 *.temp
 
-# Logs
+# all the logs
 *.log
 
-# Backup files
+# for back-up of the all the files
 *.bak
 *.swp
